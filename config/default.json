@@ -1,0 +1,7 @@
+{
+    "port": 9099,
+    "host": "172.18.4.123",
+    "database": "db1",
+    "user": "root",
+    "password": "root"
+}
